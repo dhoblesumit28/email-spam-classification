@@ -17,6 +17,6 @@ This repository contains an end-to-end machine learning project for classifying 
 
 ### Installation
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/dhoblesumit28/email-spam-classification.git>
 cd email-spam-classification
 pip install -r requirements.txt
